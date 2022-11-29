@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sadif50
-- 👀 I’m interested in create web apps
-- 🌱 I’m currently learning React JS
+- 👀 I’m a Mern Stack Developer
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me: 
 Twitter: https://www.twitter.com/sadif50
