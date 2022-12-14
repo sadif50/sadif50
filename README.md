@@ -4,7 +4,7 @@
 
 <br />
 
-[<p align="center"><img height="75" src="https://github.com/sadif50/sadif50/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/sadif50)[<img height="75" src="https://github.com/sadif50/sadif50/blob/main/images/icons/Facebook.png">](https://www.facebook.com/sadif100)[<img height="75" src="https://github.com/sadif50/sadif50/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/sadif50)
+<p align="center">[<img height="75" src="https://github.com/sadif50/sadif50/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/sadif50)[<img height="75" src="https://github.com/sadif50/sadif50/blob/main/images/icons/Facebook.png">](https://www.facebook.com/sadif100)[<img height="75" src="https://github.com/sadif50/sadif50/blob/main/images/icons/Twitter.png">](https://twitter.com/sadif50) </p>
 
 <br />
 
