@@ -1,14 +1,36 @@
-- 👋 Hi, I’m @sadif50
-- 👀 I’m a Mern Stack Developer
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me: 
-Twitter: https://www.twitter.com/sadif50
-Linkedin: https://www.linkedin.com/in/sadif50
-Instagram: https://www.instagram.com/sadif_sujan
-Email: smsujon50@gmail.com
+![I am a Junior Front-end developer. ](https://github.com/sadif50/sadif50/blob/main/images/githubcover.png)
+
+## :mailbox: Reach me out
+
+<br />
+
+[<p align="center"><img height="75" src="https://github.com/sadif50/sadif50/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/sadif50)[<img height="75" src="https://github.com/sadif50/sadif50/blob/main/images/icons/Facebook.png">](https://www.facebook.com/sadif100)[<img height="75" src="https://github.com/sadif50/sadif50/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/sadif50)
+
+<br />
+
+## :eyes: Current overview
+
+<div align="left">
+<a href="https://app.daily.dev"><img align="right" src="https://github.com/sadif50/sadif50/blob/main/devcard.svg" width="200" alt="Sujan's Dev Card"/></a>
+</div>
+
+### 🌱 I’m exploring - Next.js And Redux 
+### 👯 I’m looking - To collaborate on open source projects. 
+### 🤔 I’m trying - To help people learn web development. 
 
 
-<!---
-sadif50/sadif50 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<br />
+
+## :computer: Technologies that I know
+<br>
+<p align="center">
+<img src="https://github.com/sadif50/sadif50/blob/main/images/icons/HTML.png"/>
+<img src="https://github.com/sadif50/sadif50/blob/main/images/icons/css.png"/>
+<img src="https://github.com/sadif50/sadif50/blob/main/images/icons/JavaScript.png"/>
+<img src="https://github.com/sadif50/sadif50/blob/main/images/icons/react.png"/>
+<img src="https://github.com/sadif50/sadif50/blob/main/images/icons/tailwind.png"/>
+<img src="https://github.com/sadif50/sadif50/blob/main/images/icons/Bootsrap.png"/>
+<img src="https://github.com/sadif50/sadif50/blob/main/images/icons/node.png"/>
+<img src="https://github.com/sadif50/sadif50/blob/main/images/icons/express.png"/>
+</p><br/>
+
