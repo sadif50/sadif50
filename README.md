@@ -4,15 +4,22 @@
 
 <br />
 
-[<p align="center"><img height="75" src="https://github.com/sadif50/sadif50/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/sadif50)[<img height="75" src="https://github.com/sadif50/sadif50/blob/main/images/icons/Facebook.png">](https://www.facebook.com/sadif100)[<img height="75" src="https://github.com/sadif50/sadif50/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/sadif50)
+<p align="center">
+  <a href="https://www.linkedin.com/in/sadif50">
+    <img height="75" src="https://github.com/sadif50/sadif50/blob/main/images/icons/Linkedin.png">
+  </a>
+  <a href="https://www.facebook.com/sadif100">
+    <img height="75" src="https://github.com/sadif50/sadif50/blob/main/images/icons/Facebook.png">
+  </a>
+  <a href="https://twitter.com/sadif50">
+    <img height="75" src="https://github.com/sadif50/sadif50/blob/main/images/icons/Twitter.png">
+  </a>
+</p>
 
 <br />
 
 ## :eyes: Current overview
 
-<div align="left">
-<a href="https://app.daily.dev"><img align="right" src="https://github.com/sadif50/sadif50/blob/main/devcard.svg" width="200" alt="Sujan's Dev Card"/></a>
-</div>
 
 ### 🌱 I’m exploring - Next.js And Redux 
 ### 👯 I’m looking - To collaborate on open source projects. 
