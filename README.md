@@ -1,4 +1,4 @@
-![I am a Junior Front-end developer. ](https://github.com/sadif50/sadif50/blob/main/images/githubcover.png)
+![I am a Frontend Engineer. ](https://github.com/sadif50/sadif50/blob/main/images/githubcover.png)
 
 ## :mailbox: Reach me out
 
@@ -21,8 +21,8 @@
 ## :eyes: Current overview
 
 
-### 🌱 I’m exploring - Next.js And Redux 
-### 👯 I’m looking - To collaborate on open source projects. 
+### 🌱 I’m exploring - Vue.js and Nuxt.js
+### 👯 I’m looking - To collaborate on open-source projects. 
 ### 🤔 I’m trying - To help people learn web development. 
 
 
