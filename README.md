@@ -1,50 +1,89 @@
-![I am a Frontend Engineer. ](https://github.com/sadif50/sadif50/blob/main/images/githubcover.png)
+# 👋 Hi, I'm Sadif50!  
 
-## :mailbox: Reach me out
+Welcome to my GitHub profile! I’m a **Software Engineer** with a strong passion for building impactful applications that simplify life. Currently, I am diving deep into **Shopify app development** using **Remix** to create seamless and efficient e-commerce solutions.  
 
-<br />
+---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sadif50">
-    <img height="75" src="https://github.com/sadif50/sadif50/blob/main/images/icons/Linkedin.png">
-  </a>
-  <a href="https://www.facebook.com/sadif100">
-    <img height="75" src="https://github.com/sadif50/sadif50/blob/main/images/icons/Facebook.png">
-  </a>
-  <a href="https://twitter.com/sadif50">
-    <img height="75" src="https://github.com/sadif50/sadif50/blob/main/images/icons/Twitter.png">
-  </a>
-</p>
+## 🌟 About Me  
+- 🧑‍💻 **Current Role**: Senior Software Engineer  
+- 🌱 **Learning**: Shopify app development with Remix  
+- 🎯 **Goals**: Transitioning into full-stack development and contributing to open-source projects.  
+- 🌍 **Location**: Based in Bangladesh, open to collaborating globally.  
+- ❤️ **Hobbies**: Experimenting with new tech and spending time with family.  
 
-<br />
+---
 
-## :eyes: Current overview
+## 🛠️ Technical Skills  
+### Frontend  
+- React, Remix, Next.js, Vue.js, Nuxt.js
+- HTML5, CSS3, Bootstrap, Tailwind CSS  
+- JavaScript (ES6+), TypeScript  
 
-### 🌱 I’m exploring - Vue.js and Nuxt.js
+### Backend  
+- Node.js, Express.js  
+- GraphQL, REST APIs  
+- Sequelize, ORM tools  
 
-### 👯 I’m looking - To collaborate on open-source projects
+### Databases  
+- PostgreSQL, MySQL, MongoDB  
 
-### 🤔 I’m trying - To help people learn web development
+### Shopify Development  
+- Shopify Polaris  
+- Shopify API Integration  
+- Remix Framework  
 
-<br />
+### Testing  
+- Jest  
+- React Testing Library  
 
-## :computer: Technologies that I know
+### DevOps & Tools  
+- Git, GitHub, Netlify, Vercel  
+- Webpack, Docker (beginner)  
 
-<br>
-<p align="center">
-<img width="50" src="https://github.com/sadif50/sadif50/blob/main/images/icons/JavaScript.png"/>
-<img width="50" src="https://github.com/sadif50/sadif50/blob/main/images/icons/react.png"/>
-<img width="50" src="https://github.com/sadif50/sadif50/blob/main/images/icons/tailwind.png"/>
-<img width="50" src="https://github.com/sadif50/sadif50/blob/main/images/icons/Bootsrap.png"/>
-<img width="50" src="https://github.com/sadif50/sadif50/blob/main/images/icons/node.png"/>
-<img width="50" src="https://github.com/sadif50/sadif50/blob/main/images/icons/express.png"/>
-<img width="50" src="https://github.com/sadif50/sadif50/blob/main/images/icons/vue.png"/>
-<img width="50" src="https://github.com/sadif50/sadif50/blob/main/images/icons/nuxt.svg"/>
-<img width="50" src="https://github.com/sadif50/sadif50/blob/main/images/icons/ant-design.png"/>
-<img width="50" src="https://github.com/sadif50/sadif50/blob/main/images/icons/c.png"/>
-<img width="50" src="https://github.com/sadif50/sadif50/blob/main/images/icons/c++.png"/>
-<img width="50" src="https://github.com/sadif50/sadif50/blob/main/images/icons/graphql.png"/>
-<img width="50" src="https://github.com/sadif50/sadif50/blob/main/images/icons/mui.png"/>
-<img width="50" src="https://github.com/sadif50/sadif50/blob/main/images/icons/mysql.png"/>
-<img width="50" src="https://github.com/sadif50/sadif50/blob/main/images/icons/sequelize.png"/>
-</p><br/>
+---
+
+## 🚀 Featured Projects  
+### [🌟 PennyLog](#) *(Coming Soon)*  
+> A simple and intuitive expense tracking app that helps you manage your finances effectively.  
+
+**Key Features**:  
+- Real-time data visualization  
+- Customizable expense categories  
+- User authentication and secure data storage  
+
+---
+
+## 📈 GitHub Analytics  
+
+### 📊 Profile Summary  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sadif50&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sadif50&layout=compact&theme=radical)  
+
+---
+
+### 📅 Contributions Over Time  
+![Contribution Graph](https://github-contributor-stats.vercel.app/api?username=sadif50&theme=radical)   
+
+---
+
+## 🤝 Open to Collaborate  
+I’m always excited to collaborate on:  
+- React Next.js and Remix projects  
+- Shopify app development  
+- Open-source contributions  
+
+---
+
+## 📫 Let’s Connect!  
+- **Email**: [smsujon50@gmail.com](mailto:smsujon50@gmail.com)  
+- **LinkedIn**: [Sadif50](https://linkedin.com/in/sadif50)  
+- **Portfolio**: [sadif50.dev](#) *(Coming Soon)*  
+
+---
+
+### Fun Fact 💡  
+🌌 I’m a stargazing enthusiast! Always dreaming of the next big thing—on Earth or among the stars.  
+
+---
+
+_"Consistency is the key to mastery."_  
